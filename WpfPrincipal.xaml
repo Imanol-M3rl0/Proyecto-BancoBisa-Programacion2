@@ -1,0 +1,49 @@
+﻿<Window x:Class="WpfProyectoBancoP2C.WpfPrincipal"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfProyectoBancoP2C"
+        mc:Ignorable="d"
+        Title="Banco Bisa" 
+        Height="450" 
+        Width="800"
+        Icon="/images/LogoBisa.png">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="/images/BancoBisa2.png" Opacity="0.9"/>
+        </Grid.Background>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            
+
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Label x:Name="lblBienvenido"
+               Content="Bienvenido :D"
+               FontSize="80"
+               Grid.Row="0"
+               Grid.ColumnSpan="3"
+               />
+        <Button x:Name="btnDataBinding"
+                Content="Mis Cuentas"
+                Grid.Column="3"
+                Grid.Row="2"
+                Click="btnDataBinding_Click"/>
+        <Button x:Name="btnVolver"
+                Content="Volver"
+                Grid.Column="0"
+                Grid.Row="2" 
+                Background="Fuchsia"
+                Click="btnVolver_Click"/>
+        
+        
+        
+    </Grid>
+</Window>

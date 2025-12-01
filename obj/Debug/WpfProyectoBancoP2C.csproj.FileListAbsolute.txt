@@ -1,0 +1,44 @@
+C:\Users\Alumno\Documents\second semestre I\PROGRA2\WpfProyectoBancoP2C\WpfProyectoBancoP2C\bin\Debug\WpfProyectoBancoP2C.exe.config
+C:\Users\Alumno\Documents\second semestre I\PROGRA2\WpfProyectoBancoP2C\WpfProyectoBancoP2C\bin\Debug\WpfProyectoBancoP2C.exe
+C:\Users\Alumno\Documents\second semestre I\PROGRA2\WpfProyectoBancoP2C\WpfProyectoBancoP2C\bin\Debug\WpfProyectoBancoP2C.pdb
+C:\Users\Alumno\Documents\second semestre I\PROGRA2\WpfProyectoBancoP2C\WpfProyectoBancoP2C\obj\Debug\WpfProyectoBancoP2C.csproj.AssemblyReference.cache
+C:\Users\Alumno\Documents\second semestre I\PROGRA2\WpfProyectoBancoP2C\WpfProyectoBancoP2C\obj\Debug\MainWindow.g.cs
+C:\Users\Alumno\Documents\second semestre I\PROGRA2\WpfProyectoBancoP2C\WpfProyectoBancoP2C\obj\Debug\App.g.cs
+C:\Users\Alumno\Documents\second semestre I\PROGRA2\WpfProyectoBancoP2C\WpfProyectoBancoP2C\obj\Debug\WpfProyectoBancoP2C_MarkupCompile.cache
+C:\Users\Alumno\Documents\second semestre I\PROGRA2\WpfProyectoBancoP2C\WpfProyectoBancoP2C\obj\Debug\WpfProyectoBancoP2C_MarkupCompile.lref
+C:\Users\Alumno\Documents\second semestre I\PROGRA2\WpfProyectoBancoP2C\WpfProyectoBancoP2C\obj\Debug\MainWindow.baml
+C:\Users\Alumno\Documents\second semestre I\PROGRA2\WpfProyectoBancoP2C\WpfProyectoBancoP2C\obj\Debug\WpfProyectoBancoP2C.g.resources
+C:\Users\Alumno\Documents\second semestre I\PROGRA2\WpfProyectoBancoP2C\WpfProyectoBancoP2C\obj\Debug\WpfProyectoBancoP2C.Properties.Resources.resources
+C:\Users\Alumno\Documents\second semestre I\PROGRA2\WpfProyectoBancoP2C\WpfProyectoBancoP2C\obj\Debug\WpfProyectoBancoP2C.csproj.GenerateResource.cache
+C:\Users\Alumno\Documents\second semestre I\PROGRA2\WpfProyectoBancoP2C\WpfProyectoBancoP2C\obj\Debug\WpfProyectoBancoP2C.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Documents\second semestre I\PROGRA2\WpfProyectoBancoP2C\WpfProyectoBancoP2C\obj\Debug\WpfProyectoBancoP2C.exe
+C:\Users\Alumno\Documents\second semestre I\PROGRA2\WpfProyectoBancoP2C\WpfProyectoBancoP2C\obj\Debug\WpfProyectoBancoP2C.pdb
+C:\Users\Alumno\Documents\second semestre I\PROGRA2\WpfProyectoBancoP2C\WpfProyectoBancoP2C\obj\Debug\App.baml
+C:\Users\Pato\Desktop\proyecto final progra 2\WpfProyectoBancoP2C\WpfProyectoBancoP2C\WpfProyectoBancoP2C\bin\Debug\WpfProyectoBancoP2C.exe.config
+C:\Users\Pato\Desktop\proyecto final progra 2\WpfProyectoBancoP2C\WpfProyectoBancoP2C\WpfProyectoBancoP2C\bin\Debug\WpfProyectoBancoP2C.exe
+C:\Users\Pato\Desktop\proyecto final progra 2\WpfProyectoBancoP2C\WpfProyectoBancoP2C\WpfProyectoBancoP2C\bin\Debug\WpfProyectoBancoP2C.pdb
+C:\Users\Pato\Desktop\proyecto final progra 2\WpfProyectoBancoP2C\WpfProyectoBancoP2C\WpfProyectoBancoP2C\obj\Debug\WpfProyectoBancoP2C.csproj.AssemblyReference.cache
+C:\Users\Pato\Desktop\proyecto final progra 2\WpfProyectoBancoP2C\WpfProyectoBancoP2C\WpfProyectoBancoP2C\obj\Debug\MainWindow.g.cs
+C:\Users\Pato\Desktop\proyecto final progra 2\WpfProyectoBancoP2C\WpfProyectoBancoP2C\WpfProyectoBancoP2C\obj\Debug\WpfDataBinding.g.cs
+C:\Users\Pato\Desktop\proyecto final progra 2\WpfProyectoBancoP2C\WpfProyectoBancoP2C\WpfProyectoBancoP2C\obj\Debug\WpfPrincipal.g.cs
+C:\Users\Pato\Desktop\proyecto final progra 2\WpfProyectoBancoP2C\WpfProyectoBancoP2C\WpfProyectoBancoP2C\obj\Debug\WpfSignUp.g.cs
+C:\Users\Pato\Desktop\proyecto final progra 2\WpfProyectoBancoP2C\WpfProyectoBancoP2C\WpfProyectoBancoP2C\obj\Debug\App.g.cs
+C:\Users\Pato\Desktop\proyecto final progra 2\WpfProyectoBancoP2C\WpfProyectoBancoP2C\WpfProyectoBancoP2C\obj\Debug\WpfProyectoBancoP2C_MarkupCompile.cache
+C:\Users\Pato\Desktop\proyecto final progra 2\WpfProyectoBancoP2C\WpfProyectoBancoP2C\WpfProyectoBancoP2C\obj\Debug\WpfProyectoBancoP2C_MarkupCompile.lref
+C:\Users\Pato\Desktop\proyecto final progra 2\WpfProyectoBancoP2C\WpfProyectoBancoP2C\WpfProyectoBancoP2C\obj\Debug\App.baml
+C:\Users\Pato\Desktop\proyecto final progra 2\WpfProyectoBancoP2C\WpfProyectoBancoP2C\WpfProyectoBancoP2C\obj\Debug\MainWindow.baml
+C:\Users\Pato\Desktop\proyecto final progra 2\WpfProyectoBancoP2C\WpfProyectoBancoP2C\WpfProyectoBancoP2C\obj\Debug\WpfSignUp.baml
+C:\Users\Pato\Desktop\proyecto final progra 2\WpfProyectoBancoP2C\WpfProyectoBancoP2C\WpfProyectoBancoP2C\obj\Debug\WpfDataBinding.baml
+C:\Users\Pato\Desktop\proyecto final progra 2\WpfProyectoBancoP2C\WpfProyectoBancoP2C\WpfProyectoBancoP2C\obj\Debug\WpfPrincipal.baml
+C:\Users\Pato\Desktop\proyecto final progra 2\WpfProyectoBancoP2C\WpfProyectoBancoP2C\WpfProyectoBancoP2C\obj\Debug\WpfProyectoBancoP2C.g.resources
+C:\Users\Pato\Desktop\proyecto final progra 2\WpfProyectoBancoP2C\WpfProyectoBancoP2C\WpfProyectoBancoP2C\obj\Debug\WpfProyectoBancoP2C.Properties.Resources.resources
+C:\Users\Pato\Desktop\proyecto final progra 2\WpfProyectoBancoP2C\WpfProyectoBancoP2C\WpfProyectoBancoP2C\obj\Debug\WpfProyectoBancoP2C.csproj.GenerateResource.cache
+C:\Users\Pato\Desktop\proyecto final progra 2\WpfProyectoBancoP2C\WpfProyectoBancoP2C\WpfProyectoBancoP2C\obj\Debug\WpfProyectoBancoP2C.csproj.CoreCompileInputs.cache
+C:\Users\Pato\Desktop\proyecto final progra 2\WpfProyectoBancoP2C\WpfProyectoBancoP2C\WpfProyectoBancoP2C\obj\Debug\WpfProyectoBancoP2C.exe
+C:\Users\Pato\Desktop\proyecto final progra 2\WpfProyectoBancoP2C\WpfProyectoBancoP2C\WpfProyectoBancoP2C\obj\Debug\WpfProyectoBancoP2C.pdb
+C:\Users\Pato\Desktop\proyecto final progra 2\WpfProyectoBancoP2C\WpfProyectoBancoP2C\WpfProyectoBancoP2C\obj\Debug\WpfTransacciones.g.cs
+C:\Users\Pato\Desktop\proyecto final progra 2\WpfProyectoBancoP2C\WpfProyectoBancoP2C\WpfProyectoBancoP2C\obj\Debug\WpfTransacciones.baml
+C:\Users\Pato\Desktop\proyecto final progra 2\WpfProyectoBancoP2C\WpfProyectoBancoP2C\WpfProyectoBancoP2C\obj\Debug\WpfAdmin.g.cs
+C:\Users\Pato\Desktop\proyecto final progra 2\WpfProyectoBancoP2C\WpfProyectoBancoP2C\WpfProyectoBancoP2C\obj\Debug\WpfAdmin.baml
+C:\Users\Pato\Desktop\proyecto final progra 2\WpfProyectoBancoP2C\WpfProyectoBancoP2C\WpfProyectoBancoP2C\obj\Debug\WpfSeleccionRol.g.cs
+C:\Users\Pato\Desktop\proyecto final progra 2\WpfProyectoBancoP2C\WpfProyectoBancoP2C\WpfProyectoBancoP2C\obj\Debug\WpfSeleccionRol.baml
