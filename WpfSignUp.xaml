@@ -33,7 +33,7 @@
         </Grid.RowDefinitions>
 
         <Label x:Name="lblTitulo"
-               Content="SIGN UP :3"
+               Content="Registro de Usuario"
                Grid.ColumnSpan="2"
                FontSize="30"/>
         <Label x:Name="lblNombre"

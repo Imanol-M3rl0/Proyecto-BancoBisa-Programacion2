@@ -28,7 +28,7 @@
 
         </Grid.RowDefinitions>
         <Label x:Name="lblTitulo"
-               Content="LOGIN :D"
+               Content="Usuario"
                Grid.ColumnSpan="2"
                 FontSize="50"
                />

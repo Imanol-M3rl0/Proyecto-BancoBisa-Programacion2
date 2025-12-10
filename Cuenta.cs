@@ -5,20 +5,24 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Collections.ObjectModel;
 using System.ComponentModel;
+using System.IO;
+
 
 namespace WpfProyectoBancoP2C
 {
     public class Cuenta : INotifyPropertyChanged
     {
-        // Evento para notificar cambios (para que el ListBox se refresque).
+        // Evento para refrescar el ListBox
         public event PropertyChangedEventHandler PropertyChanged;
+
         private double saldo;
+
         public string Nombre { get; set; }
+
         public double Saldo
         {
             get { return saldo; }
-            set
-            {
+            set{
                 saldo = value;
                 PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(nameof(Saldo)));
             }
@@ -27,7 +31,7 @@ namespace WpfProyectoBancoP2C
         // Lista de transacciones
         public ObservableCollection<Transaccion> Movimientos { get; set; }
 
-        // Constructores
+        // Constructor
         public Cuenta(string nombre, double saldoInicial)
         {
             Nombre = nombre;
@@ -35,29 +39,47 @@ namespace WpfProyectoBancoP2C
             Movimientos = new ObservableCollection<Transaccion>();
         }
 
-        // Metodos 
+        //Guardar CSV
+        private void GuardarTransaccionEnArchivo(Transaccion t)
+        {
+            string ruta = "transacciones_banco.csv";
+            string linea = $"{t.Fecha};{t.Tipo};{t.Monto};{t.SaldoFinal};{this.Nombre}";
+
+            File.AppendAllText(ruta, linea + Environment.NewLine);
+        }
+
+        //         MÉTODOS DE NEGOCIO
         public void RegistrarDeposito(double monto)
         {
             Saldo += monto;
-            Movimientos.Add(new Transaccion
+
+            var t = new Transaccion
             {
                 Fecha = DateTime.Now,
                 Tipo = "Depósito",
                 Monto = monto,
                 SaldoFinal = Saldo
-            });
+            };
+
+            Movimientos.Add(t);
+            GuardarTransaccionEnArchivo(t);
         }
 
         public void RegistrarRetiro(double monto)
         {
             Saldo -= monto;
-            Movimientos.Add(new Transaccion
+
+            var t = new Transaccion
             {
                 Fecha = DateTime.Now,
                 Tipo = "Retiro",
                 Monto = monto,
                 SaldoFinal = Saldo
-            });
+            };
+
+            Movimientos.Add(t);
+            GuardarTransaccionEnArchivo(t);
         }
     }
+
 }

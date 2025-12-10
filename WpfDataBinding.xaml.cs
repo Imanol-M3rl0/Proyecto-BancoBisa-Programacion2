@@ -12,7 +12,8 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
 using System.Collections.ObjectModel;
-
+using System.IO;
+using System.Diagnostics;
 
 namespace WpfProyectoBancoP2C
 {
@@ -158,6 +159,32 @@ namespace WpfProyectoBancoP2C
 
             WpfTransacciones winTransacciones = new WpfTransacciones(cuentaSel);
             winTransacciones.ShowDialog();
+        }
+
+        private void btnExportarPDF_Click(object sender, RoutedEventArgs e)
+        {
+            string csv = "transacciones_banco.csv";
+            string pdfNombre = "TransaccionesBanco.pdf";
+
+            // Obtener la ruta ABSOLUTA de donde se está ejecutando la aplicación
+            string rutaEjecucion = AppDomain.CurrentDomain.BaseDirectory;
+            string rutaCompletaPDF = System.IO.Path.Combine(rutaEjecucion, pdfNombre);
+
+            MessageBox.Show($"El PDF se creará en la siguiente ruta:\n\n{rutaCompletaPDF}", "Verifica la Ruta", MessageBoxButton.OK, MessageBoxImage.Information);
+
+            try
+            {
+                PdfGenerator.CrearPDFTransacciones(csv, rutaCompletaPDF);
+
+                MessageBox.Show("PDF generado correctamente");
+
+                // Opcional: Intentar abrirlo (requiere using System.Diagnostics)
+                System.Diagnostics.Process.Start(new System.Diagnostics.ProcessStartInfo(rutaCompletaPDF) { UseShellExecute = true });
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show($"Ocurrió un error: {ex.Message}", "Error", MessageBoxButton.OK, MessageBoxImage.Error);
+            }
         }
     }
 }

@@ -65,7 +65,6 @@
             <TextBox x:Name="txtSaldo"
                      Text="{Binding cuentaSel.Saldo, Mode=OneWay}"
                      FontWeight="Bold"
-                     IsReadOnly="True"
                      Background="Yellow"/>
         </StackPanel>
 
@@ -118,6 +117,14 @@
                     Margin="5"
                     Click="btnBorrar_Click"/>
         </StackPanel>
+        <Button x:Name="btnExportarPDF"
+        Content="Exportar PDF"
+        Width="140"
+        Margin="5"
+        Grid.Column="1"
+        Grid.Row="4" Click="btnExportarPDF_Click"
+        />
+
     </Grid>
 
 </Window>

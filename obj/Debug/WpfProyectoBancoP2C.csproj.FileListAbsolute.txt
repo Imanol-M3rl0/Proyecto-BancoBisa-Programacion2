@@ -42,3 +42,7 @@ C:\Users\Pato\Desktop\proyecto final progra 2\WpfProyectoBancoP2C\WpfProyectoBan
 C:\Users\Pato\Desktop\proyecto final progra 2\WpfProyectoBancoP2C\WpfProyectoBancoP2C\WpfProyectoBancoP2C\obj\Debug\WpfAdmin.baml
 C:\Users\Pato\Desktop\proyecto final progra 2\WpfProyectoBancoP2C\WpfProyectoBancoP2C\WpfProyectoBancoP2C\obj\Debug\WpfSeleccionRol.g.cs
 C:\Users\Pato\Desktop\proyecto final progra 2\WpfProyectoBancoP2C\WpfProyectoBancoP2C\WpfProyectoBancoP2C\obj\Debug\WpfSeleccionRol.baml
+C:\Users\Pato\Desktop\proyecto final progra 2\WpfProyectoBancoP2C\WpfProyectoBancoP2C\WpfProyectoBancoP2C\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Pato\Desktop\proyecto final progra 2\WpfProyectoBancoP2C\WpfProyectoBancoP2C\WpfProyectoBancoP2C\bin\Debug\itextsharp.dll
+C:\Users\Pato\Desktop\proyecto final progra 2\WpfProyectoBancoP2C\WpfProyectoBancoP2C\WpfProyectoBancoP2C\bin\Debug\itextsharp.xml
+C:\Users\Pato\Desktop\proyecto final progra 2\WpfProyectoBancoP2C\WpfProyectoBancoP2C\WpfProyectoBancoP2C\obj\Debug\WpfProyectoBancoP2C.csproj.CopyComplete
